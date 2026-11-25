@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>dazdev</title>
+    <item>
+      <title>0.5.6</title>
+      <pubDate>Wed, 25 Nov 2026 06:03:04 +0000</pubDate>
+      <sparkle:version>904</sparkle:version>
+      <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+      <enclosure url="https://github.com/dazwin/dazdev-releases/releases/download/v0.5.6/dazdev-0.5.6.dmg"
+                 sparkle:edSignature="kMuB7WQalizY9CyiSHkPoJH6wCn453gs7UwqxVvHIu3mmBs6FlTQZMozxCg+soc+uvXHx4usKWrRWj55i0E7BA=="
+                 length="71904205"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
